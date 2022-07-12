@@ -1,0 +1,148 @@
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+Error: missing argument
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/env.js:185)
+    at apply (native)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/env.js:97)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/class-factory.js:439)
+    at value (frida/node_modules/frida-java-bridge/lib/class-factory.js:813)
+    at _make (frida/node_modules/frida-java-bridge/lib/class-factory.js:112)
+    at use (frida/node_modules/frida-java-bridge/lib/class-factory.js:63)
+    at use (frida/node_modules/frida-java-bridge/index.js:246)
+    at <anonymous> (/test.js:15)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:17)
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+Error: missing argument
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/env.js:185)
+    at apply (native)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/env.js:97)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/class-factory.js:439)
+    at value (frida/node_modules/frida-java-bridge/lib/class-factory.js:813)
+    at _make (frida/node_modules/frida-java-bridge/lib/class-factory.js:112)
+    at use (frida/node_modules/frida-java-bridge/lib/class-factory.js:63)
+    at use (frida/node_modules/frida-java-bridge/index.js:246)
+    at <anonymous> (/test.js:15)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:17)
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+ReferenceError: 'viewCla' is not defined
+    at <anonymous> (/test.js:16)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:18)
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+ReferenceError: 'viewCla' is not defined
+    at <anonymous> (/test.js:16)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:18)
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+setOnClickListener viewId =  -1
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+call setOnClickListener() viewId =  -1
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view
+2131230897
+shadow$_monitor_,hashCode,shadow$_klass_,identityHashCodeNative,wait,notify,notifyAll,equals,clone,identityHashCode,finalize,internalClone,toString,getClass,expandedListItem,edit_text,listTitle,list_view

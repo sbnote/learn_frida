@@ -1,0 +1,588 @@
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: init(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('java.security.Key')
+	.overload('java.security.Key', 'java.security.spec.AlgorithmParameterSpec')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:63)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:68)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: init(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('java.security.Key')
+	.overload('java.security.Key', 'java.security.spec.AlgorithmParameterSpec')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:66)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:71)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: init(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('java.security.Key')
+	.overload('java.security.Key', 'java.security.spec.AlgorithmParameterSpec')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:66)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:71)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: init(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('java.security.Key')
+	.overload('java.security.Key', 'java.security.spec.AlgorithmParameterSpec')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:66)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:71)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:80)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:80)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:84)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:84)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:91)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:68)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:91)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: doFinal(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B')
+	.overload('[B', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:82)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:103)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: doFinal(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B')
+	.overload('[B', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:82)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:103)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:105)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:110)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:105)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:110)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:110)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:115)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: update(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload('byte')
+	.overload('java.nio.ByteBuffer')
+	.overload('[B')
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:110)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:115)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:125)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:125)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:128)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:128)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:134)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:134)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:134)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+Error: sign(): has more than one overload, use .overload(<signature>) to choose from:
+	.overload()
+	.overload('[B', 'int', 'int')
+    at X (frida/node_modules/frida-java-bridge/lib/class-factory.js:563)
+    at K (frida/node_modules/frida-java-bridge/lib/class-factory.js:558)
+    at set (frida/node_modules/frida-java-bridge/lib/class-factory.js:926)
+    at <anonymous> (/test.js:112)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOps (frida/node_modules/frida-java-bridge/index.js:238)
+    at <anonymous> (frida/node_modules/frida-java-bridge/index.js:213)
+    at <anonymous> (frida/node_modules/frida-java-bridge/lib/vm.js:12)
+    at _performPendingVmOpsWhenReady (frida/node_modules/frida-java-bridge/index.js:232)
+    at perform (frida/node_modules/frida-java-bridge/index.js:192)
+    at <eval> (/test.js:134)
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
+java.lang.Throwable
+
+MDEyMzQ=
+3031323334
+01234
